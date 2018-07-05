@@ -21,13 +21,14 @@
     "express": "^4.16.3",
     "express-session": "^1.15.6",
     "geocoder": "^0.2.3",
+    "heroku": "^7.5.10",
     "locus": "^2.0.1",
     "method-override": "^2.3.10",
-    "moment": "^2.17.1",
+    "moment": "^2.22.2",
     "mongoose": "^4.13.14",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
     "passport-local-mongoose": "^3.1.0",
-    "request": "^2.65.0"
+    "request": "^2.87.0"
   }
 }
