@@ -4,3 +4,4 @@ CornellCamp was a project that I worked on while taking an online full-stack dev
 CornellCamp bonus some features that were not covered in the class.
 
 # cornell-camp
+# cornellcamp
